@@ -1,2 +1,3 @@
 name: Youcef Kacer, Machine Learning and Computer Vision Engineer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
