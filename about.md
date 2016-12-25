@@ -26,7 +26,7 @@ distributed cluster
 	<li>Matlab</li>
 	<li>C/C++</li>
 	<li>Java</li>
-	<li>Deep Learning Frameworks (Torch, Keras/TensorFlow)</li>
+	<li>Deep Learning Frameworks (Torch, MatConvNet, Keras/TensorFlow)</li>
 	<li>Machine Learning Frameworks (scikit-learn, XgBoost)</li>
 	<li>MySQL</li>
 	<li>MongoDB</li>
