@@ -16,5 +16,5 @@ author: ykacer
 externalLink: false
 ---
 
-My personal web page now contains my [curriculum-vitae](http://ykacer.github.io/cv) page.
+My personal web page now contains my [curriculum-vitae](https://ykacer.github.io/cv/) page.
 
