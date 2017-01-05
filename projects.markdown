@@ -11,16 +11,14 @@ Images are taken directly from [U.S. Geological Survey website](http://earthexpl
 One can query images with criteria like :
 
 * cloud covering
-
 * date range
-
 * day or night
 
 Here after, a screenshot of France query
 
 ![France Landsat-8 query](/assets/images/human_density_prediction/france-selection.png){:class="img-responsive"}
 
-and the 70 resulting datasets (thumbnails) projected, queried with minimum possible cloud covering (<20%), day acquisition and between May and September 2013.
+and the 70 resulting datasets (thumbnails) projected, queried with minimum possible cloud covering (<20%), day acquisition and between May to September 2013.
 
 ![France Landsat-8 datasets](/assets/images/human_density_prediction/covering-selection.png){:class="img-responsive"}
 
@@ -78,6 +76,7 @@ Belgium, Netherlands and Switzerland have been used for testing model generaliza
 
 #### ground truth
 ![NN - France - gt](/assets/images/human_density_prediction/France/nn/density_ground_truth.png){:class="img-responsive"}
+
 #### prediction
 ![NN - France - pred](/assets/images/human_density_prediction/France/nn/density_classification.png){:class="img-responsive"}
 
@@ -85,6 +84,7 @@ Belgium, Netherlands and Switzerland have been used for testing model generaliza
 
 #### ground truth
 ![NN - Belgium - gt](/assets/images/human_density_prediction/Belgique/nn/density_ground_truth.png){:class="img-responsive"}
+
 #### prediction
 ![NN - Belgium - pred](/assets/images/human_density_prediction/Belgique/nn/density_classification.png){:class="img-responsive"}
 
@@ -92,6 +92,7 @@ Belgium, Netherlands and Switzerland have been used for testing model generaliza
 
 #### ground truth
 ![NN - The Netherlands - gt](/assets/images/human_density_prediction/Pays-Bas/nn/density_ground_truth.png){:class="img-responsive"}
+
 #### prediction
 ![NN - The Netherlands - pred](/assets/images/human_density_prediction/Pays-Bas/nn/density_classification.png){:class="img-responsive"}
 
@@ -99,8 +100,9 @@ Belgium, Netherlands and Switzerland have been used for testing model generaliza
 
 #### ground truth
 ![NN - Switzerland - gt](/assets/images/human_density_prediction/Suisse/nn/density_ground_truth.png){:class="img-responsive"}
+
 #### prediction
 ![NN - Switzerland - pred](/assets/images/human_density_prediction/Suisse/nn/density_classification.png){:class="img-responsive"}
 
-
-
+Code is avalaible in my github at following [link](https://github.com/ykacer/CES_Data_Scientist_2016/tree/master/25_projet_data_scientist).
+There is a complete tutorial on how to make a density prediction of any geographic area. Japan is taken as example.
