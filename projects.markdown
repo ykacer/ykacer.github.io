@@ -9,8 +9,11 @@ This project aims at predicting human density combining Landsat-8 satellite imag
 ## Landsat-8 satellites images
 Images are taken directly from [U.S. Geological Survey website](http://earthexplorer.usgs.gov/).
 One can query images with criteria like :
+
 * cloud covering
+
 * date range
+
 * day or night
 
 Here after, a screenshot of France query
