@@ -36,8 +36,16 @@ distributed cluster
 	<li>Git</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Interests</h2>
 
 <ul>
-	<li><a href="https://github.com/ykacer/CES_Data_Scientist_2016/tree/master/25_projet_data_scientist">Satellite images for human density prediction</a></li>
+	<li>Traveling</li>
+	<li>Cooking</li>
+	<li>Fitness</li>
+	<li>French Literature</li>
 </ul>
+
+Feel free to visit my weekly updated [Projects]({{ site.url }}/projects/) page.
+Stay in touch with my [Blog]({{ site.url }}/blog/) page to know all achievements and news concerning my Data Scientist challenges/projects.
+
+Hope to see you soon in this site!
