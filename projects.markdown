@@ -5,6 +5,7 @@ title: Projects
 
 # Human Density Prediction
 This project aims at predicting human density combining Landsat-8 satellite images and Machine Learning.
+
 ## Landsat-8 satellites images
 Images are taken directly from [U.S. Geological Survey website](http://earthexplorer.usgs.gov/).
 One can query images with criteria like :
