@@ -88,7 +88,7 @@ Belgium, Netherlands and Switzerland have been used for testing model generaliza
 #### prediction
 ![NN - Belgium - pred](/assets/images/human_density_prediction/Belgique/nn/density_classification.png){:class="img-responsive"}
 
-### Neural Network - Testing The Netherlands
+### Neural Network - Testing - The Netherlands
 
 #### ground truth
 ![NN - The Netherlands - gt](/assets/images/human_density_prediction/Pays-Bas/nn/density_ground_truth.png){:class="img-responsive"}
@@ -96,7 +96,7 @@ Belgium, Netherlands and Switzerland have been used for testing model generaliza
 #### prediction
 ![NN - The Netherlands - pred](/assets/images/human_density_prediction/Pays-Bas/nn/density_classification.png){:class="img-responsive"}
 
-### Neural Network - Testing Switzerland
+### Neural Network - Testing - Switzerland
 
 #### ground truth
 ![NN - Switzerland - gt](/assets/images/human_density_prediction/Suisse/nn/density_ground_truth.png){:class="img-responsive"}
