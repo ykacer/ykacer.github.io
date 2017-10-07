@@ -72,14 +72,6 @@ We can now go through supervised learning.
 France data has been used for training/validation.
 Belgium, Netherlands and Switzerland have been used for testing model generalization.
 
-### Neural Network - Training/Validation - France
-
-#### ground truth
-![NN - France - gt](/assets/images/human_density_prediction/France/nn/density_ground_truth.png){:class="img-responsive"}
-
-#### prediction
-![NN - France - pred](/assets/images/human_density_prediction/France/nn/density_classification.png){:class="img-responsive"}
-
 ### Neural Network - Testing - Belgium
 
 #### ground truth
@@ -94,7 +86,7 @@ Belgium, Netherlands and Switzerland have been used for testing model generaliza
 ![NN - The Netherlands - gt](/assets/images/human_density_prediction/Pays-Bas/nn/density_ground_truth.png){:class="img-responsive"}
 
 #### prediction
-![NN - The Netherlands - pred](/assets/images/human_density_prediction/Pays-Bas/nn/density_classification.png){:class="img-responsive"}
+![NN - The Netherlands - pred](/assets/images/human_density_prediction/Pays-Bas/nn/density_classification.png){:class="img-responsive
 
 ### Neural Network - Testing - Switzerland
 
